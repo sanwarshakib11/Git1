@@ -1,0 +1,19 @@
+#hide_show_toggle ,#slide,#fade,#panel,#animate, #animate_two {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    text-align: center;
+}
+#flip {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    color: cornsilk;
+    background-color: tomato;
+    border-bottom: 5px solid black;
+    border-radius: 15px;
+}
+#panel {
+    display: none;
+    border-radius: 50%;
+}
